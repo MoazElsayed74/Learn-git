@@ -1,0 +1,8 @@
+div > p {
+    text-align: center;
+  }
+  
+  .magenta {
+    border: 5px solid rgb(232,21,178);
+    border-radius: 10px;
+  }

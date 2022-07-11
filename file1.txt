@@ -5,3 +5,5 @@ Testing feature1 branch
 local merging feature2
 
 commit 2 after merging
+
+implementing another feature

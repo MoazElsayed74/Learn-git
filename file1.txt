@@ -3,3 +3,5 @@ Hello From file1
 Testing feature1 branch 
 
 local merging feature2
+
+commit 2 after merging

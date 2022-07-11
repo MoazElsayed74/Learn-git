@@ -6,3 +6,17 @@ div > p {
     border: 5px solid rgb(232,21,178);
     border-radius: 10px;
   }
+
+  ul {
+    font-family: "Verdana", sans-serif;
+    background-color: red;
+    color: white;
+    padding: 8px 0;
+  }
+  li {
+    padding: 8px 20px;
+    display: inline;
+  }
+  li.active {
+    background-color: black;
+  }
